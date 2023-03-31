@@ -1,5 +1,5 @@
-### console.log("Hello I am software developer 👋")
-
+### console.log("Hello I'm software developer FullStack 👋")
+Hi there, I'm Maritza Diaz 👋
 <!--
 **maritzadiaz/maritzadiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
